@@ -1,1 +1,2 @@
-# Buddy-Forever
+# BuddyForevor
+developed by suraj, mohini, viren, hemansu.
